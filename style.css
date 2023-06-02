@@ -130,7 +130,7 @@ header .navegation li a{
 .boxImg{
     position: absolute;
     right: 0;
-    bottom: 0px;
+    bottom: 30px;
 }
 .boxImg img{
     width: 300px;
